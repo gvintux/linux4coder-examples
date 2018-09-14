@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.9)
+project(ex_0)
+set(CMAKE_C_STANDARD 11)
+set(SRC_DIR src)
+set(SOURCE_FILES ${SRC_DIR}/main.c)
+set(BUILD_DIR build)
+add_executable(${PROJECT_NAME} ${SOURCE_FILES})
