@@ -1,10 +1,10 @@
-# linux4coder example 1
+# linux4coder example 2
 
 ## Task
 
-* examine basic types
+* examine printf and scanf usage
 
-* examine float precision problem
+* examine typical errors with using printf and scanf
 
 ## Requirements
 
@@ -18,7 +18,7 @@
 
 * run `./build.sh` or `make` to build example
 
-* run `build/real_num` and `build/types`  to run example
+* run `build/printf_scanf` and `build/errors`  to run example
 
 * run `./clean.sh` or `make clean` accordingly to clean
 
